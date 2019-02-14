@@ -49,6 +49,8 @@ print(d)
 
 # set
 
+# 空 set
+s = set()
 # key 不重复
 s1 = {1, 2, 1, 2}
 s2 = set([4, 5, 4, 3])

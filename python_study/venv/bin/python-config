@@ -1,4 +1,4 @@
-#!/Users/gengmei/PycharmProjects/python_study/venv2/bin/python
+#!/Users/gengmei/PycharmProjects/python_study/venv/bin/python
 
 import sys
 import getopt

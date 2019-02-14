@@ -1,0 +1,10 @@
+pip pip3
+
+pip install Pillow
+
+Pillow、MySQL驱动程序、Web框架Flask、科学计算Numpy
+
+Anaconda：这是一个基于Python的数据处理和科学计算平台，它已经内置了许多非常有用的第三方库
+
+第三方模块安装路径：sys.path
+添加搜索目录：sys.path.append('/Users/michael/my_py_scripts')，这种方法是在运行时修改，运行结束后失效
